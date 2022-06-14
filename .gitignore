@@ -8,8 +8,9 @@ NewGPLesson.Rproj
 /assets/**
 /assembled-lesson-materials/**
 #excludes subfolders from ignore rules
-!/assets/**/ 
+!/assets/**/
 !/assets/**/.gitkeep
 !/assets/**/help.txt
 !/assembled-lesson-materials/**/
 !assembled-lesson-materials/**/.gitkeep
+*.gdoc
