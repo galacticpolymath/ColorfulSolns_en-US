@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "ShortTitle": "ColourfulSolns",
+  "Language": "English",
+  "Country": "New Zealand",
+  "lang": "en",
+  "lng": "eng",
+  "locale": "en-NZ",
+  "TemplateVer": "0.3.2",
+  "galacticPubsVer": "0.7.5",
+  "FirstPublicationDate": "",
+  "LastUpdated": "",
+  "URL": "",
+  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
+  "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
+  "PublicationStatus": "Draft",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": [],
+  "Title": "Colourful Solutions",
+  "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
+  "SponsorName": "University of Canterbury",
+  "SponsoredBy": "[University of Canterbury, Department of Engineering](https://www.canterbury.ac.nz/engineering/)",
+  "SponsorImage": {
+    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/canterbury_logo.jpg"
+  },
+  "CoverImage": {
+    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/ColorfulSoln_lesson_banner_banner.png"
+  }
+}

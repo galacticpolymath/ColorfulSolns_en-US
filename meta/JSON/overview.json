@@ -1,0 +1,32 @@
+{
+  "__component": "lesson-plan.overview",
+  "EstLessonTime": "3 x 45min classes",
+  "ForGrades": "Years 9-13",
+  "TargetSubject": "Math",
+  "Text": "#### Driving Question(s):\nHow have different dyeing technologies been used to produce colourful clothing across cultures and through time?\n#### Essential Question(s):\nHow can a career in chemical, genetic, or process engineering create opportunities to solve complex societal problems?\n#### Hook(s):\n- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will quantify the number of dyes they brought to class on their person and reflect on what they mean in terms of self-expression. The rest of Part 1 focuses on narratives designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle activity. \n- Part 3 puts students directly in the decision-maker position, giving them an opportunity to choose a course of action based on their own values and reasoning.\n#### Learning Summary:\nStudents will learn to think like chemical engineers as they delve into the dye technologies that allow us to express ourselves through colourful clothing. They will read and discuss complex texts, analyse concept maps and graphs, and develop an appreciation for indigenous (Māori) dye technology.",
+  "Tags": [
+    {
+      "Value": "chemical engineering"
+    },
+    {
+      "Value": "process engineering"
+    },
+    {
+      "Value": "dye"
+    },
+    {
+      "Value": "Māori"
+    },
+    {
+      "Value": "indigenous technology"
+    }
+  ],
+  "LearningObj": "1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.\n2. Compare and contrast the costs and benefits of synthetic vs natural dye production.\n3. Interpret graphs to assess how prices for different technologies change with production scale.",
+  "SteamEpaulette": {
+    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/"
+  },
+  "SteamEpaulette_vert": {
+    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/"
+  },
+  "Description": ""
+}
