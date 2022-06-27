@@ -1,0 +1,131 @@
+{
+  "__component": "teaching-resources.teaching-resources",
+  "SectionTitle": "Teaching Materials",
+  "Data": {
+    "classroom": {
+      "resourceSummary": [
+        {
+          "nItems": null,
+          "itemCat": "Digital Items",
+          "itemsGroup": [
+            {
+              "item": "Presentation",
+              "itemExplanation": "x N Parts"
+            }
+          ]
+        },
+        {
+          "nItems": 1,
+          "itemCat": "Printed Items",
+          "itemsGroup": [
+            {
+              "item": "Teacher Worksheet",
+              "itemExplanation": null
+            }
+          ]
+        },
+        {
+          "nItems": 4,
+          "itemCat": "Other Requirements",
+          "itemsGroup": [
+            {
+              "item": "Teacher's computer",
+              "itemExplanation": null
+            },
+            {
+              "item": "Internet Connection",
+              "itemExplanation": null
+            },
+            {
+              "item": "Projector",
+              "itemExplanation": null
+            },
+            {
+              "item": "Speakers",
+              "itemExplanation": null
+            }
+          ]
+        }
+      ],
+      "gradeVariantNotes": {
+        "part": null,
+        "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
+      },
+      "resources": [
+        {
+          "grades": "Grades y9-13",
+          "gradePrefix": "Gy9-13",
+          "links": {
+            "linkText": "Download Gy9-13 Materials for All Parts",
+            "url": "https://drive.google.com/drive/folders/1lFyRwrEOWXmwfq16Pbtj_wudAQuhYgvr"
+          },
+          "parts": [
+            {
+              "part": 1,
+              "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+              "preface": "Blurb of what this lesson teaches to go before Step 1.",
+              "itemList": [
+                {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "id": 4,
+  "id": 5,
   "ShortTitle": "ColourfulSolns",
   "Language": "English",
   "Country": "New Zealand",
@@ -8,9 +8,9 @@
   "locale": "en-NZ",
   "TemplateVer": "0.3.2",
   "galacticPubsVer": "0.7.6",
-  "FirstPublicationDate": "2022-06-26 19:41:53",
-  "LastUpdated": "2022-06-26 19:41:53",
-  "URL": "https://galacticpolymath.com/lessons/4",
+  "FirstPublicationDate": "2022-06-26 19:57:10",
+  "LastUpdated": "2022-06-26 19:57:10",
+  "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
   "PublicationStatus": "Live",
@@ -62,9 +62,155 @@
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
-      "Multimedia": null,
+      "Multimedia": [
+        {
+          "order": 1,
+          "type": "video",
+          "title": "The Nature of Color at the American Museum of Natural History",
+          "description": "Color is woven so tightly into our lives that we rarely stop to question what it is and how it works. Where do the colors in diamonds and rainbows come from? How have some animals benefited by evolving to stand out, while others survive by blending in? Why do some colors make us happy while others make us, well, blue? The Nature of Color, a new exhibition now open at the American Museum of Natural History reveals how color carries information both in nature and across cultures.",
+          "lessonRelevance": "For Part 1: This video provides a broad appreciation of colour that sets the ground for our unit investigating dye technologies and why they are important.",
+          "by": "American Museum of Natural History",
+          "byLink": "https://www.youtube.com/c/AmericanMuseumofNaturalHistory",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/U2BMqRVOdCk",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        }
+      ],
       "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "classroom": {
+          "resourceSummary": [
+            {
+              "nItems": null,
+              "itemCat": "Digital Items",
+              "itemsGroup": [
+                {
+                  "item": "Presentation",
+                  "itemExplanation": "x N Parts"
+                }
+              ]
+            },
+            {
+              "nItems": 1,
+              "itemCat": "Printed Items",
+              "itemsGroup": [
+                {
+                  "item": "Teacher Worksheet",
+                  "itemExplanation": null
+                }
+              ]
+            },
+            {
+              "nItems": 4,
+              "itemCat": "Other Requirements",
+              "itemsGroup": [
+                {
+                  "item": "Teacher's computer",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Internet Connection",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Projector",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Speakers",
+                  "itemExplanation": null
+                }
+              ]
+            }
+          ],
+          "gradeVariantNotes": {
+            "part": null,
+            "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
+          },
+          "resources": [
+            {
+              "grades": "Grades y9-13",
+              "gradePrefix": "Gy9-13",
+              "links": {
+                "linkText": "Download Gy9-13 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1lFyRwrEOWXmwfq16Pbtj_wudAQuhYgvr"
+              },
+              "parts": [
+                {
+                  "part": 1,
+                  "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+                  "preface": "Blurb of what this lesson teaches to go before Step 1.",
+                  "itemList": [
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
     },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",

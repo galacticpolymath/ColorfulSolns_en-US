@@ -1,4 +1,4 @@
-id: 4
+id: 5
 ShortTitle: ColourfulSolns
 Language: English
 Country: New Zealand
@@ -7,9 +7,9 @@ lng: eng
 locale: en-NZ
 TemplateVer: 0.3.2
 galacticPubsVer: 0.7.6
-FirstPublicationDate: 2022-06-26 19:41:53
-LastUpdated: 2022-06-26 19:41:53
-URL: https://galacticpolymath.com/lessons/4
+FirstPublicationDate: 2022-06-26 19:57:10
+LastUpdated: 2022-06-26 19:57:10
+URL: https://galacticpolymath.com/lessons/5
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
 PublicationStatus: Live
@@ -81,4 +81,6 @@ Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you lik
   list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
   to hear what’s coming up next!\n \n#### Sponsor and Producer\n[Matthew Cowan, PhD](https://www.canterbury.ac.nz/engineering/contact-us/people/matthew-cowan.html)\n"
 ScriptsToRun: ''
-ReadyToCompile: Front Matter
+ReadyToCompile:
+- Front Matter
+- Teaching Materials
