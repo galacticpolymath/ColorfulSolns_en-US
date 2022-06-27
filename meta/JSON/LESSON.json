@@ -9,7 +9,7 @@
   "TemplateVer": "0.3.2",
   "galacticPubsVer": "0.7.8",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-27 11:25:29",
+  "LastUpdated": "2022-06-27 11:48:29",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -24,7 +24,7 @@
     "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/canterbury_logo.jpg"
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/ColorfulSoln_lesson_banner_banner.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/banner.jpg"
   },
   "Section": {
     "overview": {
