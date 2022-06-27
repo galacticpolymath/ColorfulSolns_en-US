@@ -6,15 +6,15 @@
   "lang": "en",
   "lng": "eng",
   "locale": "en-NZ",
-  "TemplateVer": "0.3.2",
+  "TemplateVer": "0.3.3",
   "galacticPubsVer": "0.7.8",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-27 12:25:26",
+  "LastUpdated": "2022-06-27 16:14:41",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
   "PublicationStatus": "Live",
-  "RebuildAllMaterials": false,
+  "RebuildAllMaterials": true,
   "ReleaseDate": "2022-07-01",
   "Title": "Colourful Solutions",
   "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
@@ -30,8 +30,8 @@
     "overview": {
       "__component": "lesson-plan.overview",
       "EstLessonTime": "3 x 45min classes",
-      "ForGrades": "Years 9-13",
-      "TargetSubject": "Math",
+      "ForGrades": "9-13",
+      "TargetSubject": "Science",
       "Text": "#### Driving Question(s):\nHow have different dyeing technologies been used to produce colourful clothing across cultures and through time?\n#### Essential Question(s):\nHow can a career in chemical, genetic, or process engineering create opportunities to solve complex societal problems?\n#### Hook(s):\n- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will quantify the number of dyes they brought to class on their person and reflect on what they mean in terms of self-expression. The rest of Part 1 focuses on narratives designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle activity. \n- Part 3 puts students directly in the decision-maker position, giving them an opportunity to choose a course of action based on their own values and reasoning.\n#### Learning Summary:\nStudents will learn to think like chemical engineers as they delve into the dye technologies that allow us to express ourselves through colourful clothing. They will read and discuss complex texts, analyse concept maps and graphs, and develop an appreciation for indigenous (Māori) dye technology.",
       "Tags": [
         {
@@ -69,7 +69,7 @@
           "title": "The Nature of Color at the American Museum of Natural History",
           "description": "Color is woven so tightly into our lives that we rarely stop to question what it is and how it works. Where do the colors in diamonds and rainbows come from? How have some animals benefited by evolving to stand out, while others survive by blending in? Why do some colors make us happy while others make us, well, blue? The Nature of Color, a new exhibition now open at the American Museum of Natural History reveals how color carries information both in nature and across cultures.",
           "lessonRelevance": "For Part 1: This video provides a broad appreciation of colour that sets the ground for our unit investigating dye technologies and why they are important.",
-          "by": "American Museum of Natural History",
+          "by": "The American Museum of Natural History",
           "byLink": "https://www.youtube.com/c/AmericanMuseumofNaturalHistory",
           "keywords": null,
           "mainLink": "https://www.youtube.com/embed/U2BMqRVOdCk",
@@ -177,173 +177,30 @@
           "gradeVariantNotes": null,
           "resources": [
             {
-              "grades": "Grades y9-13",
-              "gradePrefix": "Gy9-13",
+              "grades": "Years 9-13",
+              "gradePrefix": "Y9-13",
               "links": {
-                "linkText": "Download Gy9-13 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1lFyRwrEOWXmwfq16Pbtj_wudAQuhYgvr"
+                "linkText": [],
+                "url": []
               },
               "parts": [
                 {
                   "part": 1,
                   "title": "Role of the Dye: Past, Present & Future Chemical Engineers",
                   "preface": "Students investigate 3 different dyeing technologies in a “Student Expert” activity. Students each read a textual narrative centred on one of the following dyeing technologies: Tyrian purple (extracted from sea snails); Tānekaha Red—a Māori traditional dye extracted from tree bark; and Mauveine (the first synthetic dye, created from coal tar). Students fill out concept maps of the inputs and outputs of each process and begin considering the pros and cons of each process.",
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/present"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Dye Technology Readings",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/"
-                        }
-                      ]
-                    }
-                  ]
+                  "itemList": null
                 },
                 {
                   "part": 2,
                   "title": "The Price of Colour: Unpacking the costs associated with different dyeing technologies",
                   "preface": "Students do a chemical engineering group puzzle activity. Using the concept maps they developed in Part 1, they sort a set of cards into 3 ordered processes. This is used to calculate the starting price of an item dyed using each technology.",
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1BOh4W6IskDAZmrwRpghCxjL0gHRZGxMqNo6ovsV-MsU/present"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1BOh4W6IskDAZmrwRpghCxjL0gHRZGxMqNo6ovsV-MsU/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1tiqJhuEyQaMyhcWjHqlKSnS4_O22QJGy_-Lo7Atw18w/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1tiqJhuEyQaMyhcWjHqlKSnS4_O22QJGy_-Lo7Atw18w/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/10Ct9_lSHeIBq-SS1qZvGZjNVKIUiFPmpKiKaAS75f8w/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/10Ct9_lSHeIBq-SS1qZvGZjNVKIUiFPmpKiKaAS75f8w/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/export/pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/"
-                        }
-                      ]
-                    }
-                  ]
+                  "itemList": null
                 },
                 {
                   "part": 3,
                   "title": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
                   "preface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1d8sTxcUvoeUkbPfSOqLxNcUsOvDEKLs83vVJZwM20Y4/present"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1d8sTxcUvoeUkbPfSOqLxNcUsOvDEKLs83vVJZwM20Y4/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1FI7UoWFuDCluRqyuc5jkrgBZw4h4ovDmD5etgb3ylvA/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1FI7UoWFuDCluRqyuc5jkrgBZw4h4ovDmD5etgb3ylvA/"
-                        }
-                      ]
-                    }
-                  ]
+                  "itemList": null
                 }
               ]
             }
