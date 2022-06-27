@@ -7,10 +7,10 @@
   "lng": "eng",
   "locale": "en-NZ",
   "TemplateVer": "0.3.2",
-  "galacticPubsVer": "0.7.6",
+  "galacticPubsVer": "0.7.8",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-27 10:52:59",
-  "URL": "https://galacticpolymath.com/lessons/5",
+  "LastUpdated": "2022-06-27 11:08:58",
+  "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
   "PublicationStatus": "Live",
@@ -52,10 +52,10 @@
       ],
       "LearningObj": "1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.\n2. Compare and contrast the costs and benefits of synthetic vs natural dye production.\n3. Interpret graphs to assess how prices for different technologies change with production scale.",
       "SteamEpaulette": {
-        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/"
+        "url": ""
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/"
+        "url": ""
       },
       "Description": ""
     },
