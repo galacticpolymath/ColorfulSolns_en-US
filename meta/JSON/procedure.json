@@ -1,0 +1,114 @@
+{
+  "__component": "lesson-plan.procedure",
+  "SectionTitle": "Procedure",
+  "Data": {
+    "lessonDur": "2 x 45 min",
+    "parts": [
+      {
+        "partNum": 1,
+        "partTitle": "Role of the Dye: Past, Present & Future Chemical Engineers",
+        "partDur": 45,
+        "partPreface": "Students investigate 3 different dyeing technologies in a “Student Expert” activity. Students each read a textual narrative centred on one of the following dyeing technologies: Tyrian purple (extracted from sea snails); Tānekaha Red—a Māori traditional dye extracted from tree bark; and Mauveine (the first synthetic dye, created from coal tar). Students fill out concept maps of the inputs and outputs of each process and begin considering the pros and cons of each process.",
+        "chunks": [
+          {
+            "chunkTitle": "The Procedure is not done!",
+            "chunkStart": 0,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "******\nBe sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
+                "StepQuickDescription": "Step 1 description. This is also used as the steps in the Teach it in 15 Quick Prep presentation.",
+                "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [▶'The Nature of Color at the American Museum of Natural History'](https://www.youtube.com/watch?v=U2BMqRVOdCk) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
+                "Vocab": "- **Vocabulary introduced for this step. Use shorthand format, which will be converted to a nice bulleted list. Entries are separated by a newline (return), which you make with Alt+Enter. Format:** \n- **Term1:** definition 1\n- **Term2:**   definition 2\n- **Term3:**  definition 3",
+                "VariantNotes": "Notes about either classroom or remote differences or grade level differences.",
+                "TeachingTips": "Teaching Tips"
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Step 2 Title. Need 1 per Step.",
+                "StepQuickDescription": "Concise Description",
+                "StepDetails": "More Detailed description",
+                "Vocab": "- **TermX:** definitionX",
+                "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Chunk 2 Title",
+            "chunkStart": 15,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Step 3 Title. Need 1 per Step.",
+                "StepQuickDescription": "Concise Description",
+                "StepDetails": "More Detailed description",
+                "Vocab": "- **TermX:** definitionX",
+                "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+              },
+              {
+                "Step": 4,
+                "StepTitle": "Step 4 Title",
+                "StepQuickDescription": "Concise Description",
+                "StepDetails": "More Detailed description",
+                "Vocab": "- **TermX:** definitionX",
+                "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partNum": 2,
+        "partTitle": "The Price of Colour: Unpacking the costs associated with different dyeing technologies",
+        "partDur": 45,
+        "partPreface": "Students do a chemical engineering group puzzle activity. Using the concept maps they developed in Part 1, they sort a set of cards into 3 ordered processes. This is used to calculate the starting price of an item dyed using each technology.",
+        "chunks": [
+          {
+            "chunkTitle": "Chunk 1 Title",
+            "chunkStart": 0,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Step 1 Title",
+                "StepQuickDescription": "Concise Description",
+                "StepDetails": "More Detailed description",
+                "Vocab": "- **TermX:** definitionX",
+                "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Chunk 2 Title",
+            "chunkStart": 15,
+            "chunkDur": 30,
+            "steps": [
+              {
+                "Step": 2,
+                "StepTitle": "Step 2 Title",
+                "StepQuickDescription": null,
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partNum": 3,
+        "partTitle": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
+        "partDur": null,
+        "partPreface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
+        "chunks": []
+      }
+    ]
+  }
+}
