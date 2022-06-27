@@ -9,7 +9,7 @@
   "TemplateVer": "0.3.2",
   "galacticPubsVer": "0.7.6",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-26 20:30:21",
+  "LastUpdated": "2022-06-27 10:52:59",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -76,6 +76,34 @@
           "vimeoLink": null,
           "filename": null,
           "otherLink": null
+        },
+        {
+          "order": 2,
+          "type": "pdf",
+          "title": "Dye Technology \"Cost Card\" Puzzle Activity",
+          "description": "After reading about and discussing 3 dye technologies: Tyrian purple (extracted from snails); Tānekaha red (from tree bark); and mauveine (from coal tar), students will sort these cards into 3 correctly ordered processes. This will scaffold discussion of how costs (and price) scale with production.",
+          "lessonRelevance": "For Part 2: After learning about 3 dye technologies: Tyrian purple (extracted from snails); Tānekaha red (from tree bark); and mauveine (fossil fuels), students will sort these cards into 3 correctly ordered processes. This will scaffold discussion of how costs (and price) scale with production.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "keywords": null,
+          "mainLink": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 3,
+          "type": "video",
+          "title": "True Blues: Textiles Water Pollution Problem",
+          "description": "A life cycle of one T-shirt pollutes approximately 2700 litres of water. Shocked, right? So were we! The textile industry is one of the biggest causes of water pollution due to the amount of chemicals used in dyeing and other processes.",
+          "lessonRelevance": "For Part 3: Students watch this video at the end of the unit to learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This supports student reflection and analysis as they perform a cost-benefit analysis of the technologies to make a recommendation.",
+          "by": "Color Ashram",
+          "byLink": "https://www.youtube.com/channel/UCd1rQ-NAhfUoA0OSDJ9tN8w/featured",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/Bk2APxqIhbk",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         }
       ],
       "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
@@ -88,27 +116,39 @@
         "classroom": {
           "resourceSummary": [
             {
-              "nItems": null,
+              "nItems": 3,
               "itemCat": "Digital Items",
               "itemsGroup": [
                 {
                   "item": "Presentation",
-                  "itemExplanation": "x N Parts"
+                  "itemExplanation": "x 3 Parts"
                 }
               ]
             },
             {
-              "nItems": 1,
+              "nItems": 8,
               "itemCat": "Printed Items",
               "itemsGroup": [
                 {
                   "item": "Teacher Worksheet",
-                  "itemExplanation": null
+                  "itemExplanation": "x 3 Parts"
+                },
+                {
+                  "item": "Student Worksheets",
+                  "itemExplanation": "x 3 Parts"
+                },
+                {
+                  "item": "Part 1 Readings",
+                  "itemExplanation": "(1 per student, classroom set)"
+                },
+                {
+                  "item": "Part 2 \"Cost Cards\"",
+                  "itemExplanation": "(1 set per group)"
                 }
               ]
             },
             {
-              "nItems": 4,
+              "nItems": 5,
               "itemCat": "Other Requirements",
               "itemsGroup": [
                 {
@@ -126,6 +166,10 @@
                 {
                   "item": "Speakers",
                   "itemExplanation": null
+                },
+                {
+                  "item": "Scissors",
+                  "itemExplanation": "(for cutting out cost cards)"
                 }
               ]
             }
@@ -149,7 +193,21 @@
                   "preface": "Blurb of what this lesson teaches to go before Step 1.",
                   "itemList": [
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -163,7 +221,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -177,7 +235,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Dye Technology Readings",
                       "itemCat": null,
                       "links": [
                         {
@@ -187,20 +245,6 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": null,
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/"
                         }
                       ]
                     }

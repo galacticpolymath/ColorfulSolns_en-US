@@ -5,27 +5,39 @@
     "classroom": {
       "resourceSummary": [
         {
-          "nItems": null,
+          "nItems": 3,
           "itemCat": "Digital Items",
           "itemsGroup": [
             {
               "item": "Presentation",
-              "itemExplanation": "x N Parts"
+              "itemExplanation": "x 3 Parts"
             }
           ]
         },
         {
-          "nItems": 1,
+          "nItems": 8,
           "itemCat": "Printed Items",
           "itemsGroup": [
             {
               "item": "Teacher Worksheet",
-              "itemExplanation": null
+              "itemExplanation": "x 3 Parts"
+            },
+            {
+              "item": "Student Worksheets",
+              "itemExplanation": "x 3 Parts"
+            },
+            {
+              "item": "Part 1 Readings",
+              "itemExplanation": "(1 per student, classroom set)"
+            },
+            {
+              "item": "Part 2 \"Cost Cards\"",
+              "itemExplanation": "(1 set per group)"
             }
           ]
         },
         {
-          "nItems": 4,
+          "nItems": 5,
           "itemCat": "Other Requirements",
           "itemsGroup": [
             {
@@ -43,6 +55,10 @@
             {
               "item": "Speakers",
               "itemExplanation": null
+            },
+            {
+              "item": "Scissors",
+              "itemExplanation": "(for cutting out cost cards)"
             }
           ]
         }
@@ -66,7 +82,21 @@
               "preface": "Blurb of what this lesson teaches to go before Step 1.",
               "itemList": [
                 {
-                  "itemTitle": null,
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
                   "itemCat": null,
                   "links": [
                     {
@@ -80,7 +110,7 @@
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
@@ -94,7 +124,7 @@
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "Dye Technology Readings",
                   "itemCat": null,
                   "links": [
                     {
@@ -104,20 +134,6 @@
                     {
                       "linkText": "Copy to My Google Drive",
                       "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": null,
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1tN6orATNLS0NszHgwU7kNR3RI1orS59J70ljkgq6p_I/"
                     }
                   ]
                 }
