@@ -2,6 +2,7 @@
   "__component": "lesson-plan.procedure",
   "SectionTitle": "Procedure",
   "Data": {
+    "lessonPreface": "Disregard this Procedure. Not done!",
     "lessonDur": "2 x 45 min",
     "parts": [
       {
