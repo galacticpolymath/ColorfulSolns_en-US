@@ -7,9 +7,9 @@
   "lng": "eng",
   "locale": "en-NZ",
   "TemplateVer": "0.3.3",
-  "galacticPubsVer": "0.7.8",
+  "galacticPubsVer": "0.8.0",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-27 22:04:23",
+  "LastUpdated": "2022-06-28 17:03:45",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -205,7 +205,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": null,
                       "itemCat": null,
                       "links": [
                         {
@@ -219,7 +219,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Dye Technology Readings",
                       "itemCat": null,
                       "links": [
                         {
@@ -296,7 +296,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Dye Technology Readings",
+                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
                       "itemCat": null,
                       "links": [
                         {
@@ -331,7 +331,21 @@
                       ]
                     },
                     {
-                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
+                      "itemTitle": "Student Worksheet",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/16ci-u4FYC6XwKuNEyzixkSDNFFSOW_tKeL-Efoyj3Zg/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/16ci-u4FYC6XwKuNEyzixkSDNFFSOW_tKeL-Efoyj3Zg/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
