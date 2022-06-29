@@ -9,7 +9,7 @@
   "TemplateVer": "0.3.3",
   "galacticPubsVer": "0.8.0",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-29 11:19:52",
+  "LastUpdated": "2022-06-29 15:32:49",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -205,7 +205,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -219,7 +219,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
                       "itemCat": null,
                       "links": [
                         {
@@ -233,7 +233,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -282,7 +282,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
+                      "itemTitle": null,
                       "itemCat": null,
                       "links": [
                         {
@@ -296,7 +296,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -331,7 +331,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Dye Technology Readings",
                       "itemCat": null,
                       "links": [
                         {
@@ -345,7 +345,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Dye Technology Readings",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -421,7 +421,7 @@
                   {
                     "Step": 4,
                     "StepTitle": "Watch Video",
-                    "StepQuickDescription": "A video from the American Museum of Natural History introduces the [Nature of Colour](https://youtu.be/U2BMqRVOdCk).",
+                    "StepQuickDescription": "A video from the American Museum of Natural History introduces the Nature of Colour [▶'The Nature of Color at the American Museum of Natural History'](https://www.youtube.com/watch?v=U2BMqRVOdCk).",
                     "StepDetails": "This video introduces the importance of colour in the natural world of plants, animals, and evolution, as well as in the human world of self-expression, social interaction, and culture. The importance of colour to life sets the stage to learn about dye technologies in the next step.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -432,7 +432,7 @@
               {
                 "chunkTitle": "Exploring Past & Present Dye Technologies",
                 "chunkStart": 15,
-                "chunkDur": 30,
+                "chunkDur": 25,
                 "steps": [
                   {
                     "Step": 5,
@@ -453,6 +453,22 @@
                     "TeachingTips": null
                   }
                 ]
+              },
+              {
+                "chunkTitle": "Wrapping Up",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 7,
+                    "StepTitle": "Have students finish remaining questions on their own or assign homework",
+                    "StepQuickDescription": "Part 2 will begin with a review of each dye technology, so students should complete their Part 1 worksheet before then. ",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
               }
             ]
           },
@@ -463,7 +479,7 @@
             "partPreface": "Students do a chemical engineering group puzzle activity. Using the concept maps they developed in Part 1, they sort a set of cards into 3 ordered processes. This is used to calculate the starting price of an item dyed using each technology.",
             "chunks": [
               {
-                "chunkTitle": "Review",
+                "chunkTitle": "Review 3 Dye Technologies",
                 "chunkStart": 0,
                 "chunkDur": 15,
                 "steps": [
@@ -488,7 +504,7 @@
                 ]
               },
               {
-                "chunkTitle": "Intro to *Galactic Tees*",
+                "chunkTitle": "Intro to Galactic Tees",
                 "chunkStart": 15,
                 "chunkDur": 5,
                 "steps": [
@@ -506,13 +522,38 @@
               {
                 "chunkTitle": "Process Engineering Puzzle",
                 "chunkStart": 20,
-                "chunkDur": 25,
+                "chunkDur": 15,
                 "steps": [
                   {
                     "Step": 4,
                     "StepTitle": "Activity instructions",
-                    "StepQuickDescription": "To help students think about initial costs of each dye technology, they are given a set of cards with the steps of each process. Referring to the original concept maps, students will sort the cards into the correct order for all 3 processes (e.g. 6 cards per process x 3 processes = 18 cards to sort into 3 sequences).",
+                    "StepQuickDescription": "To help students think about initial costs of each dye technology, they are given a set of Cost Cards [➚'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p) with the steps of each process. ",
+                    "StepDetails": "Each group of students will receive a set of 18 Cost Cards that contain the steps in each of the three dyeing technologies (six steps per process). The presentation will break the activity into substages and guide the students through an analysis of the processes.\nBy referring to the concept maps from yesterday's lesson, students sort the process cards into the correct order and record the sequences on their worksheets. \nOnce the cards have been sorted into the correct order, students add up the prices of each step listed on the Cost Cards to find the Total Cost of the process. The Total Cost is then multiplied by 1.2 (to include a 20% profit) to find the Starting Price of the respective dye technology. \nThroughout the worksheet students are prompted to reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 5,
+                    "StepTitle": "Find the Starting Price",
+                    "StepQuickDescription": "Guided by the presentation and worksheet, students find the Starting Price of each technology.",
                     "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Reflecting on Process Costs",
+                "chunkStart": 35,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 6,
+                    "StepTitle": "Independent Work",
+                    "StepQuickDescription": "Students should use the remaining time to finish answering any remaining questions on the worksheet. ",
+                    "StepDetails": "This will give students an opportunity to reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases. Part 3 will explore how production costs change at different scales, so these questions prime the students to think beyond the Starting Price.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -526,7 +567,74 @@
             "partTitle": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
             "partDur": null,
             "partPreface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
-            "chunks": []
+            "chunks": [
+              {
+                "chunkTitle": "Review Starting Prices",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Share Out",
+                    "StepQuickDescription": "Quickly review the 3 dye technologies, the Starting Price students calculated for each, and the reason the different technologies have varying Starting Prices.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "Since the prices and production scales have such a wide range of values, the price per item versus number of items produced points are plotted on log-log plots. The presentation includes a side note about the purpose of log-log plots."
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Producing at Scale",
+                "chunkStart": 10,
+                "chunkDur": 20,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Introducing Price Curves",
+                    "StepQuickDescription": "The presentation guides the introduction of producing items at various scales and discusses how the price per unit changes accordingly.",
+                    "StepDetails": "Students use their worksheets to follow the discussion of Price Curves and answer questions throughout the presentation. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Limited Resources",
+                    "StepQuickDescription": "The example of fishing for Murex snails illustrates how the availability of resources affects (and limits) the scale of production.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "Watch Video",
+                    "StepQuickDescription": "Watch True Blues: Textiles Water Pollution Problem [▶'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) to learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
+                    "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels become an increasingly attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Interpretation and Reflection",
+                "chunkStart": 30,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Students work independently to complete their worksheets",
+                    "StepQuickDescription": "By interpreting the price curves, compiling information from all three lessons, and reflecting on their values and goals, students recommend a dye technology for *Galactic Tees* to use in their new line of t-shirts. ",
+                    "StepDetails": "A table in the worksheet allows students to compare the range of colours, price point, target audience, sustainability, status signalling, and cultural significance of each dye technology. Based on the compiled information they will identify the most competitive dye technology. Their final recommendation for *Galactic Tees*'s dye technology is supported by the production bottom line, but also by the student's personal priorities (e.g. sustainability or cultural significance). \nEach of these technologies has pros and cons, so students are encouraged to reflect on how they could improve their chosen dye technology's disadvantages. Specifically they are tasked with imagining themselves as chemical engineers trying to make *Galactic Tees* more sustainable. ",
+                    "Vocab": "- **mass market:**  goods produced in large quantities (1,000,000+ units) to meet high demand and sold at a low cost to a broad group.\n- **niche market:**  goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning products.\n- **luxury market:**  expensive goods produced in small quantities (<1,000 units) because of cost and to maintain exclusive status of the product.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
