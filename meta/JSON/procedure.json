@@ -2,8 +2,7 @@
   "__component": "lesson-plan.procedure",
   "SectionTitle": "Procedure",
   "Data": {
-    "lessonPreface": "Disregard this Procedure. Not done!",
-    "lessonDur": "2 x 45 min",
+    "lessonDur": "3 x 45 min",
     "parts": [
       {
         "partNum": 1,
@@ -53,7 +52,7 @@
               {
                 "Step": 4,
                 "StepTitle": "Watch Video",
-                "StepQuickDescription": "A video from the American Museum of Natural History introduces the Nature of Colour [▶'The Nature of Color at the American Museum of Natural History'](https://www.youtube.com/watch?v=U2BMqRVOdCk).",
+                "StepQuickDescription": "[▶'The Nature of Color at the American Museum of Natural History'](https://www.youtube.com/watch?v=U2BMqRVOdCk)",
                 "StepDetails": "This video introduces the importance of colour in the natural world of plants, animals, and evolution, as well as in the human world of self-expression, social interaction, and culture. The importance of colour to life sets the stage to learn about dye technologies in the next step.",
                 "Vocab": null,
                 "VariantNotes": null,
@@ -197,7 +196,7 @@
       {
         "partNum": 3,
         "partTitle": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
-        "partDur": null,
+        "partDur": 45,
         "partPreface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
         "chunks": [
           {

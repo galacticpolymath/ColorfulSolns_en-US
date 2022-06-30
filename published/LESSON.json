@@ -9,7 +9,7 @@
   "TemplateVer": "0.3.3",
   "galacticPubsVer": "0.8.1",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-29 20:42:16",
+  "LastUpdated": "2022-06-29 21:03:06",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -205,7 +205,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
+                      "itemTitle": null,
                       "itemCat": null,
                       "links": [
                         {
@@ -219,7 +219,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Dye Technology Readings",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -233,7 +233,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Dye Technology Readings",
                       "itemCat": null,
                       "links": [
                         {
@@ -282,7 +282,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -296,7 +296,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
                       "itemCat": null,
                       "links": [
                         {
@@ -331,7 +331,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -345,7 +345,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -370,8 +370,7 @@
       "__component": "lesson-plan.procedure",
       "SectionTitle": "Procedure",
       "Data": {
-        "lessonPreface": "Disregard this Procedure. Not done!",
-        "lessonDur": "2 x 45 min",
+        "lessonDur": "3 x 45 min",
         "parts": [
           {
             "partNum": 1,
@@ -421,7 +420,7 @@
                   {
                     "Step": 4,
                     "StepTitle": "Watch Video",
-                    "StepQuickDescription": "A video from the American Museum of Natural History introduces the Nature of Colour [▶'The Nature of Color at the American Museum of Natural History'](https://www.youtube.com/watch?v=U2BMqRVOdCk).",
+                    "StepQuickDescription": "[▶'The Nature of Color at the American Museum of Natural History'](https://www.youtube.com/watch?v=U2BMqRVOdCk)",
                     "StepDetails": "This video introduces the importance of colour in the natural world of plants, animals, and evolution, as well as in the human world of self-expression, social interaction, and culture. The importance of colour to life sets the stage to learn about dye technologies in the next step.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -565,7 +564,7 @@
           {
             "partNum": 3,
             "partTitle": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
-            "partDur": null,
+            "partDur": 45,
             "partPreface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
             "chunks": [
               {
@@ -642,7 +641,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.618.4737&rep=rep1&type=pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
+      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
       "InitiallyExpanded": true
     },
     "extensions": {
