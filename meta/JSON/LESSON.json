@@ -9,7 +9,7 @@
   "TemplateVer": "0.3.3",
   "galacticPubsVer": "0.8.1",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-06-29 21:03:06",
+  "LastUpdated": "2022-06-30 11:50:01",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -58,11 +58,12 @@
       "SteamEpaulette_vert": {
         "url": null
       },
-      "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, which can typically be taught in three 45-minute class periods. \n\nPart 1 is a “student expert” or “jigsaw” activity, where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the first synthetic dye, created from fossil fuels, and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards and asked to organise them into three correctly ordered sequences of steps. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students’ conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
+      "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1 is a “student expert” or [“jigsaw” activity](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)), where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards representing steps in a dyeing process. Students will figure out the correct sequence for all three dye technologies. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students’ conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
       "Multimedia": [
         {
           "order": 1,
@@ -107,7 +108,6 @@
           "otherLink": null
         }
       ],
-      "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "InitiallyExpanded": true
     },
     "teaching-materials": {
@@ -205,7 +205,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
                       "itemCat": null,
                       "links": [
                         {
@@ -219,7 +219,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Dye Technology Readings",
                       "itemCat": null,
                       "links": [
                         {
@@ -233,7 +233,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Dye Technology Readings",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -282,7 +282,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -296,7 +296,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -331,7 +331,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": null,
                       "itemCat": null,
                       "links": [
                         {
@@ -345,7 +345,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -387,7 +387,7 @@
                     "Step": 1,
                     "StepTitle": "Clothing Colour Audit",
                     "StepQuickDescription": "Start by figuring out how many dye colours we brought with us today. Using a worksheet, students calculate their \"dye-versity index\".",
-                    "StepDetails": "Using a worksheet, students calculate their \"dye-versity index\". This number represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented. ",
+                    "StepDetails": "The \"dye-versity index\" represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented. ",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -395,7 +395,7 @@
                   {
                     "Step": 2,
                     "StepTitle": "Share Out",
-                    "StepQuickDescription": "Students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood. They will also begin to think about natural vs dyed colours.",
+                    "StepQuickDescription": "Students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood.",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -526,7 +526,7 @@
                   {
                     "Step": 4,
                     "StepTitle": "Activity instructions",
-                    "StepQuickDescription": "To help students think about initial costs of each dye technology, they are given a set of Cost Cards [➚'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p) with the steps of each process. ",
+                    "StepQuickDescription": "[➚'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p)  \nTo help students think about initial costs of each dye technology, they are given a set of Cost Cards with the steps of each process. ",
                     "StepDetails": "Each group of students will receive a set of 18 Cost Cards that contain the steps in each of the three dyeing technologies (six steps per process). The presentation will break the activity into substages and guide the students through an analysis of the processes.\nBy referring to the concept maps from yesterday's lesson, students sort the process cards into the correct order and record the sequences on their worksheets. \nOnce the cards have been sorted into the correct order, students add up the prices of each step listed on the Cost Cards to find the Total Cost of the process. The Total Cost is then multiplied by 1.2 (to include a 20% profit) to find the Starting Price of the respective dye technology. \nThroughout the worksheet students are prompted to reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -591,7 +591,7 @@
                   {
                     "Step": 2,
                     "StepTitle": "Introducing Price Curves",
-                    "StepQuickDescription": "The presentation guides the introduction of producing items at various scales and discusses how the price per unit changes accordingly.",
+                    "StepQuickDescription": "The presentation introduces the idea of producing items at various scales and discusses how the price per unit changes accordingly.",
                     "StepDetails": "Students use their worksheets to follow the discussion of Price Curves and answer questions throughout the presentation. ",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -609,8 +609,8 @@
                   {
                     "Step": 4,
                     "StepTitle": "Watch Video",
-                    "StepQuickDescription": "Watch True Blues: Textiles Water Pollution Problem [▶'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) to learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
-                    "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels become an increasingly attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
+                    "StepQuickDescription": "[▶'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) Learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
+                    "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels are shown to be a competitive and attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null

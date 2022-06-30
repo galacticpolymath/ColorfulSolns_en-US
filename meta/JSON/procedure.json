@@ -19,7 +19,7 @@
                 "Step": 1,
                 "StepTitle": "Clothing Colour Audit",
                 "StepQuickDescription": "Start by figuring out how many dye colours we brought with us today. Using a worksheet, students calculate their \"dye-versity index\".",
-                "StepDetails": "Using a worksheet, students calculate their \"dye-versity index\". This number represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented. ",
+                "StepDetails": "The \"dye-versity index\" represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented. ",
                 "Vocab": null,
                 "VariantNotes": null,
                 "TeachingTips": null
@@ -27,7 +27,7 @@
               {
                 "Step": 2,
                 "StepTitle": "Share Out",
-                "StepQuickDescription": "Students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood. They will also begin to think about natural vs dyed colours.",
+                "StepQuickDescription": "Students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood.",
                 "StepDetails": null,
                 "Vocab": null,
                 "VariantNotes": null,
@@ -158,7 +158,7 @@
               {
                 "Step": 4,
                 "StepTitle": "Activity instructions",
-                "StepQuickDescription": "To help students think about initial costs of each dye technology, they are given a set of Cost Cards [➚'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p) with the steps of each process. ",
+                "StepQuickDescription": "[➚'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p)  \nTo help students think about initial costs of each dye technology, they are given a set of Cost Cards with the steps of each process. ",
                 "StepDetails": "Each group of students will receive a set of 18 Cost Cards that contain the steps in each of the three dyeing technologies (six steps per process). The presentation will break the activity into substages and guide the students through an analysis of the processes.\nBy referring to the concept maps from yesterday's lesson, students sort the process cards into the correct order and record the sequences on their worksheets. \nOnce the cards have been sorted into the correct order, students add up the prices of each step listed on the Cost Cards to find the Total Cost of the process. The Total Cost is then multiplied by 1.2 (to include a 20% profit) to find the Starting Price of the respective dye technology. \nThroughout the worksheet students are prompted to reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases.",
                 "Vocab": null,
                 "VariantNotes": null,
@@ -223,7 +223,7 @@
               {
                 "Step": 2,
                 "StepTitle": "Introducing Price Curves",
-                "StepQuickDescription": "The presentation guides the introduction of producing items at various scales and discusses how the price per unit changes accordingly.",
+                "StepQuickDescription": "The presentation introduces the idea of producing items at various scales and discusses how the price per unit changes accordingly.",
                 "StepDetails": "Students use their worksheets to follow the discussion of Price Curves and answer questions throughout the presentation. ",
                 "Vocab": null,
                 "VariantNotes": null,
@@ -241,8 +241,8 @@
               {
                 "Step": 4,
                 "StepTitle": "Watch Video",
-                "StepQuickDescription": "Watch True Blues: Textiles Water Pollution Problem [▶'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) to learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
-                "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels become an increasingly attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
+                "StepQuickDescription": "[▶'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) Learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
+                "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels are shown to be a competitive and attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
                 "Vocab": null,
                 "VariantNotes": null,
                 "TeachingTips": null
