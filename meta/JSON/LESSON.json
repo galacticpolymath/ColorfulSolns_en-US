@@ -9,13 +9,13 @@
   "TemplateVer": "0.3.3",
   "galacticPubsVer": "0.8.1",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-07-02 12:27:48",
+  "LastUpdated": "2022-07-02 12:31:49",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
   "PublicationStatus": "Live",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2022-07-01",
+  "ReleaseDate": "2022-07-15",
   "Title": "Colourful Solutions",
   "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
   "SponsorName": "University of Canterbury",
@@ -205,7 +205,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
+                      "itemTitle": null,
                       "itemCat": null,
                       "links": [
                         {
@@ -219,7 +219,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Dye Technology Readings",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -233,7 +233,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Dye Technology Readings",
                       "itemCat": null,
                       "links": [
                         {
@@ -282,7 +282,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -296,7 +296,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
                       "itemCat": null,
                       "links": [
                         {
@@ -331,7 +331,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -345,7 +345,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
