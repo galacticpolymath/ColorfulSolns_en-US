@@ -9,9 +9,9 @@ lng: eng
 locale: en-NZ
 DefaultLocale: en-NZ
 TemplateVer: 0.3.4
-galacticPubsVer: 0.8.6
+galacticPubsVer: 0.8.7
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-07-18 21:42:57
+LastUpdated: 2022-07-26 17:58:52
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
@@ -30,13 +30,13 @@ LessonEnvir: Classroom
 ForGrades: 9-13
 GradesOrYears: Years
 EstLessonTime: 3 x 45min classes
-LearningEpaulette: ''
-LearningEpaulette_vert: ''
+LearningEpaulette: .na
+LearningEpaulette_vert: .na
 LearningEpaulette_params_heightScalar: 1.0
 LearningEpaulette_params_randomSeed: 101.0
-LearningChart: ''
-LearningChart_params_centralText: ''
-LearningChart_params_caption: ''
+LearningChart: .na
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
 SupportingMedia: assets/supporting-media/paper.png
 DrivingQ: How have different dyeing technologies been used to produce colourful clothing
@@ -53,7 +53,7 @@ LearningSummary: Students will learn to think like chemical engineers as they de
   into the dye technologies that allow us to express ourselves through colourful clothing.
   They will read and discuss complex texts, analyse concept maps and graphs, and develop
   an appreciation for indigenous (Māori) dye technology.
-MiscMD: ''
+MiscMD: .na
 LearningObj: |-
   1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.
   2. Compare and contrast the costs and benefits of synthetic vs natural dye production.
@@ -95,7 +95,7 @@ QuickPrep: |-
   2. Look over [Teaching Materials](#teaching_materials)
   3. Read our easy [Procedure](#procedure)
   4. Teach it and [let us know what you think!](#feedback)
-Bonus: ''
+Bonus: .na
 Extensions: |-
   - Have students read and discuss the scientific paper [in the Background Section](#background) about dye technologies. This paper is co-authored by Māori weaving expert and conservator Rangi Te Kanawa, PhD.
   - Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centred on Rangi’s conservatory work restoring Māori garments that were dyed using a different technology.
@@ -119,7 +119,7 @@ Background: "#### Māori Culture\nFor those unfamiliar with Māori culture and l
   a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have
   students read and discuss this blog with a critical eye.\n- [Science History | “Fit
   to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) "
-ConnectionToResearch: ''
+ConnectionToResearch: .na
 Feedback: "### Please let us know how it went with your class! \n#### We want to know
   what you (and/or your students) think!\nShare your feedback in < 5 min with these
   forms:\n- [For teachers](https://docs.google.com/forms/d/e/1FAIpQLSd5KEkRFBHRk38k28Pnv4qUTixW-zomGVrVi6WEm8KUwA2I2w/viewform?usp=sf_link)\n-
@@ -129,7 +129,7 @@ Credits: "#### Lesson Author and Creative Director:\n[Matt Wilkins, PhD](https:/
   \n#### Sponsor and Producer\n[Matthew Cowan, PhD](https://www.canterbury.ac.nz/engineering/contact-us/people/matthew-cowan.html)\n\nPlease
   [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
   to hear what’s coming up next!"
-ScriptsToRun: ''
+ScriptsToRun: .na
 ReadyToCompile:
 - Front Matter
 - Teaching Materials
