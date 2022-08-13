@@ -12,7 +12,7 @@
   "TemplateVer": "0.3.4",
   "galacticPubsVer": "0.8.8",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-08-03 19:13:24",
+  "LastUpdated": "2022-08-12 19:13:17",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -22,7 +22,7 @@
   "Title": "Colourful Solutions",
   "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
   "SponsorName": "University of Canterbury",
-  "SponsoredBy": "[The Department of Chemical and Process Engineering at the University of Canterbury in Christchurch, New Zealand](https://www.canterbury.ac.nz/engineering/)",
+  "SponsoredBy": "[The Department of Chemical and Process Engineering at the University of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand",
   "SponsorImage": {
     "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/canterbury_logo.jpg"
   },

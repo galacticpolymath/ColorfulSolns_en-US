@@ -11,7 +11,7 @@ DefaultLocale: en-NZ
 TemplateVer: 0.3.4
 galacticPubsVer: 0.8.8
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-08-03 19:16:01
+LastUpdated: 2022-08-12 20:27:42
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
@@ -22,9 +22,9 @@ Title: Colourful Solutions
 Subtitle: Chemical Engineering Dyes to Brighten Lives
 SponsorName: University of Canterbury
 SponsoredBy: '[The Department of Chemical and Process Engineering at the University
-  of Canterbury in Christchurch, New Zealand](https://www.canterbury.ac.nz/engineering/)'
-SponsorLogo: assets/orig-client-media_NoEdit/canterbury_logo.jpg
-LessonBanner: assets/banners_etc/banner.jpg
+  of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand'
+SponsorLogo: assets/_banners_logos_etc/canterbury_logo.jpg
+LessonBanner: assets/_banners_logos_etc/banner.jpg
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 9-13
@@ -38,7 +38,7 @@ LearningChart: .na
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
-SupportingMedia: assets/supporting-media/paper.png
+SupportingMedia: assets/_other-media-to-publish/paper.png
 DrivingQ: How have different dyeing technologies been used to produce colourful clothing
   across cultures and through time?
 EssentialQ: How can a career in chemical, genetic, or process engineering create opportunities
@@ -68,28 +68,28 @@ Description: "Students will gain a deep appreciation for the technology behind t
   colours we use to express ourselves in our everyday dress. This lesson offers a
   brief, but deep dive into chemical engineering through the lens of dye technology.
   There are 3 parts, each expected to take about one 45-minute class period. \n\nPart
-  1 is a “student expert” or [“jigsaw” activity](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)),
-  where student groups number off into 3 subgroups. Each subgroup will read an article
-  about a dye technology, fill out a concept map to understand the chemical process
-  described, and teach this process to their group mates. The three technologies students
-  will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails);
-  Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the
-  first synthetic dye—created from fossil fuels—and invented by a teenager in the
-  19th Century).\n\nPart 2 builds on student understanding of these three dye technologies
-  by challenging them to work together in groups to solve an engineering puzzle. They
-  are given a set of 18 cards representing steps in a dyeing process. Students will
-  figure out the correct sequence for all three dye technologies. Each step also has
-  an associated cost, and students will add up the costs, calculate a starting price,
-  and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students
-  in the position of a chemical engineer who has to choose one of these technologies,
-  taking into account a wide variety of factors. The presentation walks students through
-  the interpretation of a graph showing how price scales with how many dyed items
-  are being produced. They will develop data literacy, critical thinking, and communication
-  skills as they interpret and discuss the various tradeoffs of each technology in
-  terms of price, sustainability, cultural significance, and the ability to serve
-  the demands of everyone. Ultimately, this lesson aims to broaden students’ conception
-  of what technology is and to better understand the value of engineering, whether
-  or not they decide to pursue it as a career.\n"
+  1 is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique))
+  activity, where student groups number off into 3 subgroups. Each subgroup will read
+  an article about a dye technology, fill out a concept map to understand the chemical
+  process described, and teach this process to their group mates. The three technologies
+  students will learn about are: Tyrian Purple (a 4,000 year old dye created from
+  sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and
+  mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager
+  in the 19th Century).\n\nPart 2 builds on student understanding of these three dye
+  technologies by challenging them to work together in groups to solve an engineering
+  puzzle. They are given a set of 18 cards representing steps in a dyeing process.
+  Students will figure out the correct sequence for all three dye technologies. Each
+  step also has an associated cost, and students will add up the costs, calculate
+  a starting price, and begin to reflect on the pros and cons of each technology.
+  \n\nPart 3 puts students in the position of a chemical engineer who has to choose
+  one of these technologies, taking into account a wide variety of factors. The presentation
+  walks students through the interpretation of a graph showing how price scales with
+  how many dyed items are being produced. They will develop data literacy, critical
+  thinking, and communication skills as they interpret and discuss the various tradeoffs
+  of each technology in terms of price, sustainability, cultural significance, and
+  the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden
+  students’ conception of what technology is and to better understand the value of
+  engineering, whether or not they decide to pursue it as a career.\n"
 QuickPrep: |-
   1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
