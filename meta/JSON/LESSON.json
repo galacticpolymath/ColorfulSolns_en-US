@@ -12,7 +12,7 @@
   "TemplateVer": "0.3.4",
   "galacticPubsVer": "0.8.9",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-08-25 16:46:26",
+  "LastUpdated": "2022-08-25 17:05:27",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -187,8 +187,8 @@
                 "linkText": "Download Y9-13 Materials for All Parts",
                 "url": "https://drive.google.com/drive/folders/1lFyRwrEOWXmwfq16Pbtj_wudAQuhYgvr"
               },
-              "parts": {
-                "1": {
+              "parts": [
+                {
                   "part": 1,
                   "title": "Role of the Dye: Past, Present & Future Chemical Engineers",
                   "preface": "Students investigate 3 different dyeing technologies in a “Student Expert” activity. Students each read a textual narrative centred on one of the following dyeing technologies: Tyrian purple (extracted from sea snails); Tānekaha Red—a Māori traditional dye extracted from tree bark; and Mauveine (the first synthetic dye, created from coal tar). Students fill out concept maps of the inputs and outputs of each process and begin considering the pros and cons of each process.",
@@ -251,7 +251,7 @@
                     }
                   ]
                 },
-                "2": {
+                {
                   "part": 2,
                   "title": "The Price of Colour: Unpacking the costs associated with different dyeing technologies",
                   "preface": "Students do a chemical engineering group puzzle activity. Using the concept maps they developed in Part 1, they sort a set of cards into 3 ordered processes. This is used to calculate the starting price of an item dyed using each technology.",
@@ -314,7 +314,7 @@
                     }
                   ]
                 },
-                "3": {
+                {
                   "part": 3,
                   "title": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
                   "preface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
@@ -363,26 +363,28 @@
                     }
                   ]
                 },
-                "part": "last",
-                "title": "Assessments",
-                "preface": "",
-                "itemList": [
-                  {
-                    "itemTitle": "(P Assessment (TEACHER))",
-                    "itemCat": null,
-                    "links": [
-                      {
-                        "linkText": "PDF",
-                        "url": "https://docs.google.com/document/d/1ctN7_nFmo8-9d7pIsNJcBG5CJvgPMT8hywSCbyX6k_c/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy to My Google Drive",
-                        "url": "https://docs.google.com/document/d/1ctN7_nFmo8-9d7pIsNJcBG5CJvgPMT8hywSCbyX6k_c/template/preview"
-                      }
-                    ]
-                  }
-                ]
-              }
+                {
+                  "part": "last",
+                  "title": "Assessments",
+                  "preface": "",
+                  "itemList": [
+                    {
+                      "itemTitle": "(P Assessment (TEACHER))",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1ctN7_nFmo8-9d7pIsNJcBG5CJvgPMT8hywSCbyX6k_c/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1ctN7_nFmo8-9d7pIsNJcBG5CJvgPMT8hywSCbyX6k_c/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
