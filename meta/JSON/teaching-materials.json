@@ -254,6 +254,20 @@
               "preface": "",
               "itemList": [
                 {
+                  "itemTitle": "ColourfulSolns_Pre/Post Assessment (STUDENT)",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1hhCN2R-J_6JLJwBuNOqzuP2vZ5MXhPIPyDMgerZKNrw/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1hhCN2R-J_6JLJwBuNOqzuP2vZ5MXhPIPyDMgerZKNrw/template/preview"
+                    }
+                  ]
+                },
+                {
                   "itemTitle": "ColourfulSolns_Pre/Post Assessment (TEACHER)",
                   "itemCat": null,
                   "links": [
