@@ -1,5 +1,6 @@
 {
   "id": 4,
+  "UniqueID": "lesson_4_locale_1",
   "ShortTitle": "ColourfulSolns",
   "Language": "English",
   "Country": "New Zealand",
@@ -9,10 +10,10 @@
   "lng": "eng",
   "locale": "en-NZ",
   "DefaultLocale": "en-NZ",
-  "TemplateVer": "0.3.4",
+  "TemplateVer": "0.3.5",
   "galacticPubsVer": "0.8.9",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-08-26 09:30:37",
+  "LastUpdated": "2022-08-31 12:03:49",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -56,10 +57,10 @@
       ],
       "LearningObj": "1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.\n2. Compare and contrast the costs and benefits of synthetic vs natural dye production.\n3. Interpret graphs to assess how prices for different technologies change with production scale.",
       "SteamEpaulette": {
-        "url": null
+        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": null
+        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette_vert.png"
       },
       "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1 is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)) activity, where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards representing steps in a dyeing process. Students will figure out the correct sequence for all three dye technologies. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students’ conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
     },
@@ -679,8 +680,212 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
+      "Content": "#### Connection to Research\n NA \n#### Research Background\n #### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
       "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): .",
+      "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
+      "Badge": {
+        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Chart.png"
+      }
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "GM",
+                  "name": "Geometry and Measurement",
+                  "standardsGroup": [
+                    {
+                      "codes": "Level 4.Measurement",
+                      "grades": null,
+                      "statements": "Students will interpret and use scales, timetables, and charts.",
+                      "alignmentNotes": "- Students will synthesize multiple sources of information stemming from: a complex graph of how the unit price of 3 dye technologies scales with production; group discussions; and consideration of different pros and cons for each technology.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 5. Position and Orientation",
+                      "grades": null,
+                      "statements": "Students will interpret points and lines on co-ordinate planes, including scales and bearings on maps.",
+                      "alignmentNotes": "- Students will interpret curves on a complex graph of how the unit price of 3 dye technologies scales with production to inform a detailed cost/benefit analysis.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "LRV",
+                  "name": "Listening, Reading, and Viewing",
+                  "standardsGroup": [
+                    {
+                      "codes": "Level 4. Ideas",
+                      "grades": null,
+                      "statements": "Students will show an increasing understanding of ideas within, across, and beyond texts.",
+                      "alignmentNotes": "- Students will become experts in one of the 3 dye technologies covered by reading a complex text. They will then use their understanding to fill out a concept map of inputs and outputs for the technology involved.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 4. Processes and Strategies",
+                      "grades": null,
+                      "statements": "Students will integrate sources of information, processes, and strategies confidently to identify, form, and express ideas.",
+                      "alignmentNotes": "- Students will work together with group members to fill out all 3 concept maps, each based on a different complex text based on a dye technology (Tyrian Purple, Tānekaha Red, and Mauveine)",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 5. Ideas",
+                      "grades": null,
+                      "statements": "Students will show an increasing understanding of ideas within, across, and beyond texts.",
+                      "alignmentNotes": "- Students will become experts in one of the 3 dye technologies covered by reading a complex text. They will then use their understanding to fill out a concept map of inputs and outputs for the technology involved.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 5. Processes and Strategies",
+                      "grades": null,
+                      "statements": "Students will integrate sources of information, processes, and strategies purposefully and confidently to identify, form, and express increasingly sophisticated ideas.",
+                      "alignmentNotes": "- Students will work together with group members to fill out all 3 concept maps, each based on a different complex text based on a dye technology (Tyrian Purple, Tānekaha Red, and Mauveine)",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "NS",
+                  "name": "Nature of Science",
+                  "standardsGroup": [
+                    {
+                      "codes": "Level 4. Participating and Contributing",
+                      "grades": null,
+                      "statements": "Students will:\n- Use their growing science knowledge when considering issues of concern to them.\n- Explore various aspects of an issue and make decisions about possible actions.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. They will make a recommendation for which dye to use, based on this analysis.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 4. Understanding about Science",
+                      "grades": null,
+                      "statements": "Students will:\n- Appreciate that science is a way of explaining the world and that science knowledge changes over time\n- Identify ways in which scientists work together and provide evidence to support their ideas",
+                      "alignmentNotes": "- Throughout the lesson, students will learn about different technologies (developed beginning 4,000 years ago) have impacted different societies, and how our growing understanding of chemical processes has increased access to dyes (and colourful fabrics), while causing other environmental and cultural challenges.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 5. Communicating in Science",
+                      "grades": null,
+                      "statements": "Students will:\n- Use a wider range of science vocabulary, symbols, and conventions. \n- Apply their understandings of science to evaluate both popular and scientific texts (including visual and numerical literacy).",
+                      "alignmentNotes": "- Students will incorporate new vocabulary associated with dye technologies and analyze complex graphs.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": null,
+                  "name": null,
+                  "standardsGroup": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "MW",
+                  "name": "Material World",
+                  "standardsGroup": [
+                    {
+                      "codes": "Level 4. Chemistry and Society",
+                      "grades": null,
+                      "statements": "Students will relate the observed, characteristic chemical and physical properties of a range of different materials to technological uses and natural processes.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. Two dyes are naturally-derived; one is synthesized from fossil fuels.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 5. Chemistry and Society",
+                      "grades": null,
+                      "statements": "Students will link the properties of different groups of substances to the way they are used in society or occur in nature.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. Two dyes are naturally-derived; one is synthesized from fossil fuels.",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "NS",
+                  "name": "Nature of Science",
+                  "standardsGroup": [
+                    {
+                      "codes": "Level 5. Participating and Contributing",
+                      "grades": null,
+                      "statements": "Students will develop an understanding of socio-scientific issues by gathering relevant scientific information in order to draw evidence-based conclusions and to take action where appropriate.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. They will make a recommendation for which dye to use, based on this analysis.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "Level 4. Investigating in Science",
+                      "grades": null,
+                      "statements": "Students will:\n- Build on prior experiences, working together to share and examine their own and others’ knowledge. \n- Ask questions, find evidence, explore simple models, and carry out appropriate investigations to develop simple explanations.",
+                      "alignmentNotes": "- Students will work together with group members to fill out 3 concept maps showing the inputs and outputs of each dye technology: Tyrian Purple, Tānekaha Red, and Mauveine. They will also participate in class discussions and individual reflection based on this group work.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "extensions": {
       "__component": "lesson-plan.collapsible-text-section",
@@ -757,6 +962,13 @@
               "date": "Jun 29, 2022",
               "summary": "Initial lesson build. ",
               "notes": null,
+              "acknowledgments": null
+            },
+            {
+              "version": "0.2.0",
+              "date": "Aug 31, 2022",
+              "summary": "Major updates for public release!",
+              "notes": "Aligned to New Zealand Curriculum. Added Learning Epaulette. Fixed grammatical errors, broken links. ",
               "acknowledgments": null
             }
           ]

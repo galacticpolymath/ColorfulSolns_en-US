@@ -1,4 +1,5 @@
 id: 4
+UniqueID: lesson_4_locale_1
 ShortTitle: ColourfulSolns
 Language: English
 Country: New Zealand
@@ -8,10 +9,10 @@ lang: en
 lng: eng
 locale: en-NZ
 DefaultLocale: en-NZ
-TemplateVer: 0.3.4
+TemplateVer: 0.3.5
 galacticPubsVer: 0.8.9
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-08-26 09:30:37
+LastUpdated: 2022-08-31 12:03:49
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
@@ -30,11 +31,12 @@ LessonEnvir: Classroom
 ForGrades: 9-13
 GradesOrYears: Years
 EstLessonTime: 3 x 45min classes
-LearningEpaulette: .na
-LearningEpaulette_vert: .na
-LearningEpaulette_params_heightScalar: 1.0
-LearningEpaulette_params_randomSeed: 101.0
-LearningChart: .na
+PullStandardsInfoFrom: myFile
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 1
+LearningEpaulette_params_randomSeed: 101
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
@@ -132,6 +134,7 @@ Credits: "#### Lesson Author and Creative Director:\n[Matt Wilkins, PhD](https:/
 ScriptsToRun: .na
 ReadyToCompile:
 - Front Matter
+- Standards Alignment
 - Teaching Materials
 - Procedure
 - Acknowledgments

@@ -11,6 +11,13 @@
           "summary": "Initial lesson build. ",
           "notes": null,
           "acknowledgments": null
+        },
+        {
+          "version": "0.2.0",
+          "date": "Aug 31, 2022",
+          "summary": "Major updates for public release!",
+          "notes": "Aligned to New Zealand Curriculum. Added Learning Epaulette. Fixed grammatical errors, broken links. ",
+          "acknowledgments": null
         }
       ]
     }
