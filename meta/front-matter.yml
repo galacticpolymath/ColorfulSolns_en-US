@@ -12,7 +12,7 @@ DefaultLocale: en-NZ
 TemplateVer: 0.3.5
 galacticPubsVer: 0.8.9
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-08-31 14:40:42
+LastUpdated: 2022-08-31 15:07:47
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
@@ -36,7 +36,6 @@ LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
