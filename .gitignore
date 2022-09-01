@@ -13,4 +13,7 @@ NewGPLesson.Rproj
 !/assets/**/help.txt
 !/assembled-lesson-materials/**/
 !assembled-lesson-materials/**/.gitkeep
+*.gsheet
 *.gdoc
+*.gslides
+*.gform
