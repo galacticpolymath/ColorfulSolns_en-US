@@ -13,12 +13,12 @@
   "TemplateVer": "0.3.7",
   "galacticPubsVer": "0.8.9",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-08-31 21:27:52",
+  "LastUpdated": "2022-08-31 22:42:02",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
   "PublicationStatus": "Live",
-  "RebuildAllMaterials": true,
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2022-09-01",
   "Title": "Colourful Solutions",
   "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
@@ -60,9 +60,9 @@
         "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette_vert.png"
-      },
-      "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1 is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)) activity, where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards representing steps in a dyeing process. Students will figure out the correct sequence for all three dye technologies. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students’ conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
+        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette_vert.png",
+        "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1 is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)) activity, where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards representing steps in a dyeing process. Students will figure out the correct sequence for all three dye technologies. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students’ conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
+      }
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -680,7 +680,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n NA \n#### Research Background\n #### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
+      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -820,35 +820,35 @@
                   "name": "Social Studies",
                   "standardsGroup": [
                     {
-                      "codes": "Level 4.",
+                      "codes": "Level 4",
                       "grades": null,
                       "statements": "Students will understand how people pass on and sustain culture and heritage for different reasons and that this has consequences for people.",
                       "alignmentNotes": "- Students will learn about mātaraunga Māori (traditional knowledge) related to the making of a red dye from tree bark, as well as the ancient practice of making Tyrian purple from marine snails. They will reflect on and discuss the cultural significance of these dyes and contrast with modern synthetic dyes.",
                       "subcat": null
                     },
                     {
-                      "codes": "Level 4.",
+                      "codes": "Level 4",
                       "grades": null,
                       "statements": "Students will understand how exploration and innovation create opportunities and challenges for people, places, and environments.",
                       "alignmentNotes": "- Students will learn how dye technologies were discovered, passed down, or rediscovered, and reflect on their cultural significance and sustainability.",
                       "subcat": null
                     },
                     {
-                      "codes": "Level 5.",
+                      "codes": "Level 5",
                       "grades": null,
                       "statements": "Students will understand how people’s management of resources impacts on environmental and social sustainability.",
                       "alignmentNotes": "- Students will consider the sustainability of each dye technology in the cost/benefit analysis.",
                       "subcat": null
                     },
                     {
-                      "codes": "Level 5.",
+                      "codes": "Level 5",
                       "grades": null,
                       "statements": "Students will understand how the ideas and actions of people in the past have had a significant impact on people’s lives.",
                       "alignmentNotes": "- Students will learn how dye technologies were discovered, passed down, or rediscovered, and reflect on their cultural significance and sustainability.",
                       "subcat": null
                     },
                     {
-                      "codes": "Level 5.",
+                      "codes": "Level 5",
                       "grades": null,
                       "statements": "Students will understand how people seek and have sought economic growth through business, enterprise, and innovation.",
                       "alignmentNotes": "- In P2, students will do a card sort activity that has them think about the steps and costs involved with producing the first garment using each dye technology. They will then synthesize and expand this knowledge to understand how an entrepreneur balances various concerns to choose a technology that meets the diverse needs of a particular target consumer.",
