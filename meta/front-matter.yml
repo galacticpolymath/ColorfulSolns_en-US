@@ -9,10 +9,10 @@ lang: en
 lng: eng
 locale: en-NZ
 DefaultLocale: en-NZ
-TemplateVer: 0.3.5
+TemplateVer: 0.3.7
 galacticPubsVer: 0.8.9
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-08-31 16:16:23
+LastUpdated: 2022-08-31 21:27:52
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
@@ -32,10 +32,13 @@ ForGrades: 9-13
 GradesOrYears: Years
 EstLessonTime: 3 x 45min classes
 PullStandardsInfoFrom: myFile
+LearningPlotCorrection: no
+LearningChartFriendly: no
 LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
+LearningChart: .na
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
