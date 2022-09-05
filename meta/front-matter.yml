@@ -1,5 +1,5 @@
 id: 4
-UniqueID: lesson_4_locale_1
+UniqueID: lesson_4_locale_2
 ShortTitle: ColourfulSolns
 Language: English
 Country: New Zealand
@@ -12,13 +12,13 @@ DefaultLocale: en-NZ
 TemplateVer: 0.3.7
 galacticPubsVer: 0.8.9
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-08-31 22:55:53
-URL: https://galacticpolymath.com/lessons/4
-GPCatalogPath: https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json
-GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
-PublicationStatus: Live
+LastUpdated: 2022-09-05 16:52:40
+URL: .na
+GPCatalogPath: .na
+GitHubPath: git@github.com:galacticpolymath/ColorfulSolns_en-US.git
+PublicationStatus: Draft
 RebuildAllMaterials: no
-ReleaseDate: '2022-09-01'
+ReleaseDate: .na
 Title: Colourful Solutions
 Subtitle: Chemical Engineering Dyes to Brighten Lives
 SponsorName: University of Canterbury
@@ -33,8 +33,8 @@ GradesOrYears: Years
 EstLessonTime: 3 x 45min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: no
-LearningChartFriendly: no
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningChartFriendly: .na
+LearningEpaulette: .na
 LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
