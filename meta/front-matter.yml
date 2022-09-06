@@ -10,15 +10,15 @@ lng: eng
 locale: en-US
 DefaultLocale: en-NZ
 TemplateVer: 0.3.7
-galacticPubsVer: 0.9.2
+galacticPubsVer: 0.9.3
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-09-05 23:09:21
+LastUpdated: 2022-09-06 18:49:00
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColorfulSolns_en-US.git
 PublicationStatus: Live
 RebuildAllMaterials: no
-ReleaseDate: .na
+ReleaseDate: '2022-09-06'
 Title: Colorful Solutions
 Subtitle: Chemical Engineering Dyes to Brighten Lives
 SponsorName: University of Canterbury
@@ -33,15 +33,15 @@ GradesOrYears: Grades
 EstLessonTime: 3 x 45min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: no
-LearningChartFriendly: .na
+LearningChartFriendly: yes
 LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: .na
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
-LearningChart_params_captionN: yes
+LearningChart_params_captionN: no
 SupportingMedia: assets/_other-media-to-publish/paper.png
 DrivingQ: How have different dyeing technologies been used to produce colorful clothing
   across cultures and through time?
