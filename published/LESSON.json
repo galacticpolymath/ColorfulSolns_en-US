@@ -1,34 +1,34 @@
 {
   "id": 4,
-  "UniqueID": "lesson_4_locale_1",
+  "UniqueID": "lesson_4_locale_2",
   "ShortTitle": "ColourfulSolns",
   "Language": "English",
-  "Country": "New Zealand",
+  "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "New Zealand",
   "lang": "en",
   "lng": "eng",
-  "locale": "en-NZ",
+  "locale": "en-US",
   "DefaultLocale": "en-NZ",
   "TemplateVer": "0.3.7",
-  "galacticPubsVer": "0.8.9",
+  "galacticPubsVer": "0.9.2",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-08-31 22:55:53",
+  "LastUpdated": "2022-09-05 19:58:31",
   "URL": "https://galacticpolymath.com/lessons/4",
-  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
-  "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
+  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json",
+  "GitHubPath": "git@github.com:galacticpolymath/ColorfulSolns_en-US.git",
   "PublicationStatus": "Live",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2022-09-01",
-  "Title": "Colourful Solutions",
+  "ReleaseDate": null,
+  "Title": "Colorful Solutions",
   "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
   "SponsorName": "University of Canterbury",
   "SponsoredBy": "[The Department of Chemical and Process Engineering at the University of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand",
   "SponsorImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/canterbury_logo.jpg"
+    "url": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/canterbury_logo.jpg"
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/banner.jpg"
+    "url": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/banner.jpg"
   },
   "Section": {
     "overview": {
@@ -57,10 +57,10 @@
       ],
       "LearningObj": "1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.\n2. Compare and contrast the costs and benefits of synthetic vs natural dye production.\n3. Interpret graphs to assess how prices for different technologies change with production scale.",
       "SteamEpaulette": {
-        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette.png"
+        "url": null
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette_vert.png",
+        "url": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/GP-Learning-Epaulette_vert.png",
         "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1 is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)) activity, where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards representing steps in a dyeing process. Students will figure out the correct sequence for all three dye technologies. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students’ conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
       }
     },
@@ -186,7 +186,7 @@
               "gradePrefix": "Y9-13",
               "links": {
                 "linkText": "Download Y9-13 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1lFyRwrEOWXmwfq16Pbtj_wudAQuhYgvr"
+                "url": "https://drive.google.com/drive/folders/1XG-42nE5qCOHpUyCJ9LqoN0GAvycTZRj"
               },
               "parts": [
                 {
@@ -200,11 +200,11 @@
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/present"
+                          "url": "https://docs.google.com/presentation/d/1Ms756WmF4viacoZCqjxcl0cuFzIhT2LOfxvhgqNyvJk/present"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/19FQka7UBadSSE23vijksHOBbDKWG7ddF0rcwNxtTP_M/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1Ms756WmF4viacoZCqjxcl0cuFzIhT2LOfxvhgqNyvJk/template/preview"
                         }
                       ]
                     },
@@ -214,11 +214,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/19ITdnilpOCnlm2tbuAMnW9P11vp6yPKk0golN4uneto/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1TODkueTRCxgsUZWBtNUvfsBA3jv3dQLBgqhJ4ZQ4mBw/template/preview"
+                          "url": "https://docs.google.com/document/d/19ITdnilpOCnlm2tbuAMnW9P11vp6yPKk0golN4uneto/template/preview"
                         }
                       ]
                     },
@@ -228,25 +228,25 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1ELVmQoPqO45dsYTB3x4dUb9eF1XEiEnOZHsYXooBS30/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1YiJKXfgq0hwodyRpgLE54m3iU1kG3Cy1YUsOZOYPQ6A/template/preview"
+                          "url": "https://docs.google.com/document/d/1ELVmQoPqO45dsYTB3x4dUb9eF1XEiEnOZHsYXooBS30/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Dye Technology Reading Handout (Class Set) (P1)",
+                      "itemTitle": "Worksheet (P1)",
                       "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1kHi7f7gxlMjL_FKWn-lgeqjmC5VlSx2_KJQ3w1cftVw/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1Ti20LKuIMta5YqETSkEdGWuOgN55P9zDUCIolZCuyl8/template/preview"
+                          "url": "https://docs.google.com/document/d/1kHi7f7gxlMjL_FKWn-lgeqjmC5VlSx2_KJQ3w1cftVw/template/preview"
                         }
                       ]
                     }
@@ -263,11 +263,11 @@
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1BOh4W6IskDAZmrwRpghCxjL0gHRZGxMqNo6ovsV-MsU/present"
+                          "url": "https://docs.google.com/presentation/d/1uD6KT1aHFXo0pwSXTDLi9Jo-t0-Nr4pRF9aL1wdJ79k/present"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1BOh4W6IskDAZmrwRpghCxjL0gHRZGxMqNo6ovsV-MsU/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1uD6KT1aHFXo0pwSXTDLi9Jo-t0-Nr4pRF9aL1wdJ79k/template/preview"
                         }
                       ]
                     },
@@ -277,11 +277,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1tiqJhuEyQaMyhcWjHqlKSnS4_O22QJGy_-Lo7Atw18w/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1RABNcunP2cTVlksvQ9j_WrLXsXn0o_0Wv-yvS2qOdiQ/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1tiqJhuEyQaMyhcWjHqlKSnS4_O22QJGy_-Lo7Atw18w/template/preview"
+                          "url": "https://docs.google.com/document/d/1RABNcunP2cTVlksvQ9j_WrLXsXn0o_0Wv-yvS2qOdiQ/template/preview"
                         }
                       ]
                     },
@@ -291,11 +291,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/10Ct9_lSHeIBq-SS1qZvGZjNVKIUiFPmpKiKaAS75f8w/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1YqsH7Dgc0gZrWZ7uMu7Q8ak_zLLZdNmPZ2kSTkE3ug4/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/10Ct9_lSHeIBq-SS1qZvGZjNVKIUiFPmpKiKaAS75f8w/template/preview"
+                          "url": "https://docs.google.com/document/d/1YqsH7Dgc0gZrWZ7uMu7Q8ak_zLLZdNmPZ2kSTkE3ug4/template/preview"
                         }
                       ]
                     },
@@ -305,11 +305,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/export/pdf"
+                          "url": "https://docs.google.com/presentation/d/1jWUl4_HDbz822WH1Nbrvc0uNei31BjXzO0oZIhwJDtA/export/pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1jWUl4_HDbz822WH1Nbrvc0uNei31BjXzO0oZIhwJDtA/template/preview"
                         }
                       ]
                     }
@@ -326,11 +326,11 @@
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1d8sTxcUvoeUkbPfSOqLxNcUsOvDEKLs83vVJZwM20Y4/present"
+                          "url": "https://docs.google.com/presentation/d/1kqA1GbcsvtVidaA6UvEMX6Zh1eFg_sK4AnUlcxe5j-A/present"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1d8sTxcUvoeUkbPfSOqLxNcUsOvDEKLs83vVJZwM20Y4/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1kqA1GbcsvtVidaA6UvEMX6Zh1eFg_sK4AnUlcxe5j-A/template/preview"
                         }
                       ]
                     },
@@ -340,11 +340,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/16ci-u4FYC6XwKuNEyzixkSDNFFSOW_tKeL-Efoyj3Zg/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1CE9qh0YPkk9X6rZY4ylKBR3Ch1ch3Rw2R68cLwAifL8/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/16ci-u4FYC6XwKuNEyzixkSDNFFSOW_tKeL-Efoyj3Zg/template/preview"
+                          "url": "https://docs.google.com/document/d/1CE9qh0YPkk9X6rZY4ylKBR3Ch1ch3Rw2R68cLwAifL8/template/preview"
                         }
                       ]
                     },
@@ -354,11 +354,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1FI7UoWFuDCluRqyuc5jkrgBZw4h4ovDmD5etgb3ylvA/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1-V56RE816HL1VXByPkEj4TW2v3TOMX6GN-5fhowhK0U/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1FI7UoWFuDCluRqyuc5jkrgBZw4h4ovDmD5etgb3ylvA/template/preview"
+                          "url": "https://docs.google.com/document/d/1-V56RE816HL1VXByPkEj4TW2v3TOMX6GN-5fhowhK0U/template/preview"
                         }
                       ]
                     }
@@ -370,30 +370,30 @@
                   "preface": "",
                   "itemList": [
                     {
-                      "itemTitle": "ColourfulSolns_Pre/Post Assessment (STUDENT)",
+                      "itemTitle": "ColorfulSolns_Pre Post Assessment (STUDENT)",
                       "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1hhCN2R-J_6JLJwBuNOqzuP2vZ5MXhPIPyDMgerZKNrw/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1YW3X4Ku06z2hrvZFIFbDmJ6miTlqGnikzbodZ-9E6ZU/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1hhCN2R-J_6JLJwBuNOqzuP2vZ5MXhPIPyDMgerZKNrw/template/preview"
+                          "url": "https://docs.google.com/document/d/1YW3X4Ku06z2hrvZFIFbDmJ6miTlqGnikzbodZ-9E6ZU/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "ColourfulSolns_Pre/Post Assessment (TEACHER)",
+                      "itemTitle": "ColorfulSolns_Pre Post Assessment (TEACHER)",
                       "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1ctN7_nFmo8-9d7pIsNJcBG5CJvgPMT8hywSCbyX6k_c/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1PvwVv5paQYzWHC2A021tWgCnBLW6a5E8H5EZcdDkB9g/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1ctN7_nFmo8-9d7pIsNJcBG5CJvgPMT8hywSCbyX6k_c/template/preview"
+                          "url": "https://docs.google.com/document/d/1PvwVv5paQYzWHC2A021tWgCnBLW6a5E8H5EZcdDkB9g/template/preview"
                         }
                       ]
                     }
@@ -680,7 +680,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
+      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
       "InitiallyExpanded": true
     },
     "standards-header": {

@@ -2,24 +2,24 @@ id: 4
 UniqueID: lesson_4_locale_2
 ShortTitle: ColourfulSolns
 Language: English
-Country: New Zealand
+Country: United States
 DefaultLanguage: English
 DefaultCountry: New Zealand
 lang: en
 lng: eng
-locale: en-NZ
+locale: en-US
 DefaultLocale: en-NZ
 TemplateVer: 0.3.7
-galacticPubsVer: 0.8.9
+galacticPubsVer: 0.9.2
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-09-05 17:50:35
-URL: .na
-GPCatalogPath: .na
+LastUpdated: 2022-09-05 19:58:31
+URL: https://galacticpolymath.com/lessons/4
+GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColorfulSolns_en-US.git
-PublicationStatus: Draft
+PublicationStatus: Live
 RebuildAllMaterials: no
 ReleaseDate: .na
-Title: Colourful Solutions
+Title: Colorful Solutions
 Subtitle: Chemical Engineering Dyes to Brighten Lives
 SponsorName: University of Canterbury
 SponsoredBy: '[The Department of Chemical and Process Engineering at the University
