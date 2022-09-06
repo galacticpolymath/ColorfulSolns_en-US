@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.7",
   "galacticPubsVer": "0.9.2",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-09-05 22:59:19",
+  "LastUpdated": "2022-09-05 23:09:21",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColorfulSolns_en-US.git",
@@ -34,8 +34,8 @@
     "overview": {
       "__component": "lesson-plan.overview",
       "EstLessonTime": "3 x 45min classes",
-      "GradesOrYears": "Years",
-      "ForGrades": "9-13",
+      "GradesOrYears": "Grades",
+      "ForGrades": "9-12",
       "TargetSubject": "Science",
       "Text": "#### Driving Question(s):\nHow have different dyeing technologies been used to produce colorful clothing across cultures and through time?\n#### Essential Question(s):\nHow can a career in chemical, genetic, or process engineering create opportunities to solve complex societal problems?\n#### Hook(s):\n- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will quantify the number of dyes they brought to class on their person and reflect on what they mean in terms of self-expression. The rest of Part 1 focuses on narratives designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle activity. \n- Part 3 puts students directly in the decision-maker position, giving them an opportunity to choose a course of action based on their own values and reasoning.\n#### Learning Summary:\nStudents will learn to think like chemical engineers as they delve into the dye technologies that allow us to express ourselves through colourful clothing. They will read and discuss complex texts, analyse concept maps and graphs, and develop an appreciation for indigenous (Māori) dye technology.",
       "Tags": [
@@ -182,10 +182,10 @@
           "gradeVariantNotes": null,
           "resources": [
             {
-              "grades": "Years 8-12",
-              "gradePrefix": "Y8-12",
+              "grades": "Grades 8-12",
+              "gradePrefix": "G8-12",
               "links": {
-                "linkText": "Download Y8-12 Materials for All Parts",
+                "linkText": "Download G8-12 Materials for All Parts",
                 "url": "https://drive.google.com/drive/folders/1XG-42nE5qCOHpUyCJ9LqoN0GAvycTZRj"
               },
               "parts": [
