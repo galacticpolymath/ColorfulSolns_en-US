@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.7",
   "galacticPubsVer": "0.9.3",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-09-09 10:35:51",
+  "LastUpdated": "2022-09-09 11:14:47",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColorfulSolns_en-US.git",
@@ -236,7 +236,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Worksheet (P1)",
+                      "itemTitle": "Reading handout",
                       "itemCat": null,
                       "links": [
                         {
@@ -299,7 +299,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "(P2)",
+                      "itemTitle": "Cost Cards for Activity",
                       "itemCat": null,
                       "links": [
                         {
