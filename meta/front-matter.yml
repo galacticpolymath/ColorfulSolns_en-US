@@ -12,7 +12,7 @@ DefaultLocale: en-NZ
 TemplateVer: 0.3.7
 galacticPubsVer: 0.9.3
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-09-06 21:29:41
+LastUpdated: 2022-09-08 21:51:35
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColorfulSolns_en-US.git
@@ -43,8 +43,8 @@ LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia: assets/_other-media-to-publish/paper.png
-DrivingQ: How have different dyeing technologies been used to produce colorful clothing
-  across cultures and through time?
+DrivingQ: How have different dye technologies been used to produce colorful clothing
+  across cultures and over time?
 EssentialQ: How can a career in chemical, genetic, or process engineering create opportunities
   to solve complex societal problems?
 Hooks: "- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will
@@ -69,31 +69,32 @@ Tags:
 - Māori
 - indigenous technology
 Description: "Students will gain a deep appreciation for the technology behind the
-  colors we use to express ourselves in our everyday dress. This lesson offers a brief,
+  colors we use to express ourselves in our everyday dress. This lesson offers a brief
   but deep dive into chemical engineering through the lens of dye technology. There
   are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1
   is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique))
   activity, where student groups number off into 3 subgroups. Each subgroup will read
   an article about a dye technology, fill out a concept map to understand the chemical
   process described, and teach this process to their group mates. The three technologies
-  students will learn about are: Tyrian Purple (a 4,000 year old dye created from
-  sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark); and
-  mauveine (the first synthetic dye—created from fossil fuels—and invented by a teenager
-  in the 19th Century).\n\nPart 2 builds on student understanding of these three dye
-  technologies by challenging them to work together in groups to solve an engineering
-  puzzle. They are given a set of 18 cards representing steps in a dyeing process.
-  Students will figure out the correct sequence for all three dye technologies. Each
-  step also has an associated cost, and students will add up the costs, calculate
-  a starting price, and begin to reflect on the pros and cons of each technology.
-  \n\nPart 3 puts students in the position of a chemical engineer who has to choose
-  one of these technologies, taking into account a wide variety of factors. The presentation
-  walks students through the interpretation of a graph showing how price scales with
-  how many dyed items are being produced. They will develop data literacy, critical
-  thinking, and communication skills as they interpret and discuss the various tradeoffs
-  of each technology in terms of price, sustainability, cultural significance, and
-  the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden
-  students’ conception of what technology is and to better understand the value of
-  engineering, whether or not they decide to pursue it as a career.\n"
+  students will learn about are: Tyrian Purple (a 4,000-year-old dyeing method that
+  uses sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark);
+  and mauveine (the first synthetic dye—created from fossil fuels—and invented by
+  a teenager in the 19th Century).\n\nPart 2 builds on students' understanding of
+  these three dye technologies by challenging them to work together in groups to solve
+  an engineering puzzle. They are given a set of 18 cards representing steps in a
+  dyeing process. Students will figure out the correct sequence for all three dye
+  technologies. Each step also has an associated cost, and students will add up the
+  costs, calculate a starting price, and begin to reflect on the pros and cons of
+  each technology. \n\nPart 3 puts students in the position of a chemical engineer
+  who has to choose one of these technologies, taking into account a wide variety
+  of factors. The presentation walks students through the interpretation of a graph
+  showing how price scales with how many dyed items are being produced. They will
+  develop data literacy, critical thinking, and communication skills as they interpret
+  and discuss the various tradeoffs of each technology in terms of price, sustainability,
+  cultural significance, and the ability to serve the demands of everyone. Ultimately,
+  this lesson aims to broaden students’ conception of what technology is and to better
+  understand the value of engineering, whether or not they decide to pursue it as
+  a career.\n"
 QuickPrep: |-
   1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
@@ -101,7 +102,7 @@ QuickPrep: |-
   4. Teach it and [let us know what you think!](#feedback)
 Bonus: .na
 Extensions: |-
-  - Have students read and discuss the scientific paper [in the Background Section](#background) about dye technologies. This paper is co-authored by Māori weaving expert and conservator Rangi Te Kanawa, PhD.
+  - Have students read and discuss the scientific paper about dye technologies [in the Background Section](#background). This paper is co-authored by Māori weaving expert and conservator Rangi Te Kanawa, PhD.
   - Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centered on Rangi’s conservatory work restoring Māori garments that were dyed using a different technology.
   - Have students research the significance of the pepeha in Māori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).
   - Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).

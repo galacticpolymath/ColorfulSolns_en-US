@@ -18,6 +18,13 @@
           "summary": "Major updates for public release!",
           "notes": "Aligned to New Zealand Curriculum. Added Learning Epaulette. Fixed grammatical errors, broken links. ",
           "acknowledgments": null
+        },
+        {
+          "version": "0.2.1",
+          "date": "Sep 08, 2022",
+          "summary": "Minor updates ",
+          "notes": "Procedure edited to be more active. Minor spelling and grammar corrections throughout. Couple of broken links fixed",
+          "acknowledgments": null
         }
       ]
     }

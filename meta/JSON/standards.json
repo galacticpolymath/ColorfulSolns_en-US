@@ -1,5 +1,6 @@
 {
   "__component": "lesson-plan.standards",
+  "LearningObj": "1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.\n2. Compare and contrast the costs and benefits of synthetic vs natural dye production.\n3. Interpret graphs to assess how prices for different technologies change with production scale.",
   "Data": [
     {
       "subject": "Math",
@@ -15,7 +16,7 @@
               "standardsGroup": [
                 {
                   "codes": "7.NS.A.3",
-                  "grades": "7.0",
+                  "grades": "7",
                   "statements": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
                   "alignmentNotes": "- In Part 2, students will do basic addition and multiplication to calculate starting price of each technology. In Part 3, they will analyze a graph of how unit price changes with how many units are produced in order to decide on which technology is appropriate.",
                   "subcat": null
@@ -35,14 +36,14 @@
               "standardsGroup": [
                 {
                   "codes": "8.EE.A.3",
-                  "grades": "8.0",
+                  "grades": "8",
                   "statements": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other. *For example, estimate the population of the United States as 3 times 10^8 and the population of the world as 7 times 10^9, and determine that the world population is more than 20 times larger*.",
                   "alignmentNotes": "- The central graph in Part 2 and 3 has a logarithmic X- and Y- axis. Though logarithms are not an explicit learning target; rather, they are asked to interpret the graph using relative units, this can be an opportunity to dive deeper into this topic if you like.",
                   "subcat": null
                 },
                 {
                   "codes": "8.F.B.5",
-                  "grades": "8.0",
+                  "grades": "8",
                   "statements": "Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.",
                   "alignmentNotes": "- In Part 3, students are asked to interpret different inflection points and other features on the graph to hypothesize about the processes that explain them.",
                   "subcat": null
@@ -101,21 +102,21 @@
               "standardsGroup": [
                 {
                   "codes": "SL.7.1",
-                  "grades": "7.0",
+                  "grades": "7",
                   "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
                   "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved. Throughout the lesson, there are many opportunities for sharing ideas and observations and building a shared knowledge of the technologies and their various tradeoffs.",
                   "subcat": null
                 },
                 {
                   "codes": "SL.8.1",
-                  "grades": "8.0",
+                  "grades": "8",
                   "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
                   "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved. Throughout the lesson, there are many opportunities for sharing ideas and observations and building a shared knowledge of the technologies and their various tradeoffs.",
                   "subcat": null
                 },
                 {
                   "codes": "SL.8.1b",
-                  "grades": "8.0",
+                  "grades": "8",
                   "statements": "Follow rules for collegial discussions and decision-making, track progress toward specific goals and deadlines, and define individual roles as needed.",
                   "alignmentNotes": "- In Part 1 and 2, students will need to work together to make sense of the systems put in front of them. They will have flexibility to define roles and strategies for filling out the missing pieces of information from the resources put in front of them.",
                   "subcat": null

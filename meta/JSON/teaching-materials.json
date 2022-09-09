@@ -75,7 +75,7 @@
           "parts": [
             {
               "part": 1,
-              "title": "Role of the Dye: Past, Present & Future Chemical Engineers",
+              "title": "Role of the Dye",
               "preface": "Students investigate 3 different dyeing technologies in a “Student Expert” activity. Students each read a textual narrative centred on one of the following dyeing technologies: Tyrian purple (extracted from sea snails); Tānekaha Red—a Māori traditional dye extracted from tree bark; and Mauveine (the first synthetic dye, created from coal tar). Students fill out concept maps of the inputs and outputs of each process and begin considering the pros and cons of each process.",
               "itemList": [
                 {
@@ -138,8 +138,8 @@
             },
             {
               "part": 2,
-              "title": "The Price of Colour: Unpacking the costs associated with different dyeing technologies",
-              "preface": "Students do a chemical engineering group puzzle activity. Using the concept maps they developed in Part 1, they sort a set of cards into 3 ordered processes. This is used to calculate the starting price of an item dyed using each technology.",
+              "title": "The Price of Colour",
+              "preface": "Students do a chemical engineering group puzzle activity. Using the concept maps they developed in Part 1, they sort a set of cards into 3 ordered processes. This is used to calculate the starting price of the first item dyed using each technology.",
               "itemList": [
                 {
                   "itemTitle": "Presentation",
@@ -201,7 +201,7 @@
             },
             {
               "part": 3,
-              "title": "Thinking Like a Chemical Engineer: How much does each dyeing technology cost at different scales of production?",
+              "title": "Thinking Like a Chemical Engineer",
               "preface": "This interactive presentation guides students with interpreting graphs of how textile prices change with production scale for each dye technology used. Leads toward a detailed cost/benefit analysis that asks students to weigh price, sustainability, cultural significance and other values to propose which technology an imaginary fashion company should use.",
               "itemList": [
                 {
