@@ -11,9 +11,9 @@
   "locale": "en-US",
   "DefaultLocale": "en-NZ",
   "TemplateVer": "0.3.7",
-  "galacticPubsVer": "0.9.3",
+  "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-06-26 20:30:21",
-  "LastUpdated": "2022-09-09 12:47:04",
+  "LastUpdated": "2022-09-13 09:30:20",
   "URL": "https://galacticpolymath.com/lessons/4",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ColorfulSolns_en-US.git",
@@ -25,7 +25,7 @@
   "SponsorName": "University of Canterbury",
   "SponsoredBy": "[The Department of Chemical and Process Engineering at the University of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand",
   "SponsorImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/canterbury_logo.jpg"
+    "url": ["https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/canterbury_logo.jpg", "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/featuredSponsor_logo.jpg"]
   },
   "CoverImage": {
     "url": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/banner.jpg"
