@@ -9,10 +9,10 @@ lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-NZ
-TemplateVer: 0.3.7
+TemplateVer: 0.3.8
 galacticPubsVer: 0.9.4
 FirstPublicationDate: 2022-06-26 20:30:21
-LastUpdated: 2022-09-29 14:59:38
+LastUpdated: 2022-11-17 12:00:05
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/ColorfulSolns_en-US.git
